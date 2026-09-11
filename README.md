@@ -5,11 +5,11 @@
 
 [**Завантажити останню версію →**](../../releases/latest)
 &nbsp;&nbsp;·&nbsp;&nbsp;
-[**Сайт проєкту**](http://nodview2.125mb.com/)
+[**Сайт проєкту**](https://nodview2.pp.ua/)
 &nbsp;&nbsp;·&nbsp;&nbsp;
-[Інструкція](http://nodview2.125mb.com/manual.html)
+[Інструкція](https://nodview2.pp.ua/manual.html)
 &nbsp;&nbsp;·&nbsp;&nbsp;
-[Питання](http://nodview2.125mb.com/faq.html)
+[Питання](https://nodview2.pp.ua/faq.html)
 
 ---
 
@@ -64,22 +64,19 @@ ESET може позначити програму як `RiskWare.HackAV` — т�
 
 ## Документація
 
-Сайт проєкту: **http://nodview2.125mb.com/**
+Сайт проєкту: **https://nodview2.pp.ua/**
 
-* [Опис можливостей](http://nodview2.125mb.com/opys.html)
-* [Покрокова інструкція](http://nodview2.125mb.com/manual.html) — від першого
+* [Опис можливостей](https://nodview2.pp.ua/opys.html)
+* [Покрокова інструкція](https://nodview2.pp.ua/manual.html) — від першого
   запуску до налаштування антивірусів на клієнтах
-* [Часті питання](http://nodview2.125mb.com/faq.html)
-* [Історія версій](http://nodview2.125mb.com/history.html)
+* [Часті питання](https://nodview2.pp.ua/faq.html)
+* [Історія версій](https://nodview2.pp.ua/history.html)
 
-Посилання без `https` навмисно: безкоштовний хостинг віддає чужий сертифікат,
-і браузер лякав би попередженням. Сайт статичний, ні форм, ні паролів на ньому
-немає.
 
 ## Підтримати
 
 Програма безкоштовна й лишиться такою.
-[Сторінка підтримки](http://nodview2.125mb.com/support.html)
+[Сторінка підтримки](https://nodview2.pp.ua/support.html)
 
 ## Зв'язок
 
